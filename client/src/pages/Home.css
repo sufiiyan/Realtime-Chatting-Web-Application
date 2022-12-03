@@ -1,0 +1,22 @@
+.home__bg {
+    background-image: url('/home/sufi/Documents/WT project/client/src/assets/Cutsl.jpeg');
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 150px;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    display: inline-block;
+}
+
+.home-message-icon {
+    margin-left: 10px;
+    display: inline-block;
+}
+
+.main-div{
+    margin-right: 130px;
+    /* width: 200px; */
+    display: inline-block;
+}
