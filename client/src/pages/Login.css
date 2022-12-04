@@ -1,0 +1,8 @@
+.login__bg {
+    background-image: url('/home/sufi/Documents/WT project/client/src/assets/rat.jpeg');
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
